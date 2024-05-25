@@ -1,0 +1,53 @@
+
+
+<content>
+    <div class="cont-i-sect-1">
+        <!-- <div class="main-img">
+
+        </div> -->
+        <div class="px-4 py-4">
+            <h3 class="font-bold pb-2 text-pretty">Greeb: Tu aliado en el desarrollo de software
+            </h3>
+            <p class="font-light md:font-normal leading-7 pb-2">En Greeb, somos un equipo joven y apasionado por el desarrollo de software, conformado por compañeros de universidad con amplia experiencia y conocimientos en diversas áreas de la programación.</p>
+            <p class="font-light md:font-normal leading-7 pb-2">Nuestra misión es convertir tus ideas en soluciones tecnológicas innovadoras y de alta calidad, adaptándonos a tus necesidades y objetivos específicos.</p>
+            <p class="font-light md:font-normal leading-7 ">Ofrecemos un servicio integral que abarca desde análisis y diseño de software hasta la implementación, el mantenimiento y el soporte técnico.</p>
+            
+            
+        </div>
+    </div>
+    
+    <div class="flex flex-col justify-center px-4 py-4 gap-2">
+        <h3 class="font-bold text-center">Areas de conocimiento</h3>
+        <div class="flex flex-row gap-4 place-items-stretch justify-center">
+            <div class="bg-slate-800 rounded text-lime-200 px-2 py-2 text-center">
+                <!-- <div class="area-img"></div> -->
+                <div class="area-title">Web Frontend</div>
+            </div>
+            <div class="bg-slate-800 rounded text-lime-200 px-2 py-2 text-center">
+                <!-- <div class="area-img"></div> -->
+                <div class="area-title">Web Backend</div>
+            </div>
+            <div class="flex bg-slate-800 rounded text-lime-200 px-2 py-2 text-center">
+                <!-- <div class="area-img"></div> -->
+                <div class="place-self-center">Movil</div>
+            </div>
+            <div class="flex bg-slate-800 rounded text-lime-200 px-2 py-2 text-center">
+                <!-- <div class="area-img"></div> -->
+                <div class="place-self-center">Escritorio</div>
+            </div>
+        </div>
+    </div>
+    <div class="px-4 py-4">
+        <h3 class="font-bold pb-2">¿Por qué elegir Greeb?</h3>
+        <ul class="font-light md:font-normal leading-7">
+            <li class="pb-2"><span class="font-medium">Equipo joven y talentoso.</span> <br> Contamos con un equipo de profesionales en constante actualización, apacionados por la tecnología y comprometidos en la excelencia.</li>
+            <li class="pb-2"><span class="font-medium">Amplia experiencia.</span><br> Poseemos una amplia experiencia en el desarrollo de software de todo tipo, desde aplicaciones web y móviles, hasta sistemas de gestión empresarial.</li>
+            <li class="pb-2"><span class="font-medium">Enfoque personalizado.</span><br> Nos enfocamos en comprender tus necesidades y objetivos para ofrecerte soluciones personalizadas que se adapten a tu realidad.</li>
+            <li class="pb-2"><span class="font-medium">Compromiso con la calidad.</span><br> Nos comprometemos a entregar software de alta calidad, libre de errores y que cumpla con los más altos estándares.</li>
+        </ul>
+    </div>
+    <div class=" bg-slate-800 px-4 py-4">
+        <p class="text-lime-200 text-center">En Greeb, creemos que la tecnología es una herramienta poderosa que puede ayudarte a alcanzar tus metas.</p>
+        <p class="text-lime-200 text-center">Contáctanos y déjanos ayudarte a convertir tus ideas en realidad.</p>
+    </div>
+</content>
