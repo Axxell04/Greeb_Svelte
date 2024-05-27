@@ -7,6 +7,7 @@
   import { URLServer, activePage } from "./stores/store";
   import ContactPage from "./lib/ContactPage.svelte";
   URLServer.set(window.location.origin);
+  // URLServer.set(`http://${window.location.hostname}:8000`)
 </script>
 
 <div class="text-slate-800">

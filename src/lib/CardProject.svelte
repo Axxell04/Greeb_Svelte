@@ -10,8 +10,15 @@
     <span class="text-lime-200 font-light md:font-normal"
       >{project.description}</span
     >
+    {#if project.site}
+    <div class="flex-col">
+      <span class="text-lime-200 font-light md:font-normal">Sitio: </span><a target="_blank" class="text-lime-300 underline font-light md:font-normal" href={project.site}>{project.site}</a>
+    </div>
+    {/if}
   </div>
-  <div class="flex flex-col gap-2 justify-items-center w-full md:py-3 md:px-3">
+  <div
+    class="flex flex-grow overflow-x-auto rounded-md gap-2 justify-items-center w-full md:px-3"
+  >
     {#if project.imgs}
       {#each project.imgs as img}
         <img
